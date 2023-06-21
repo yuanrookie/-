@@ -86,7 +86,8 @@
     flex: 0 0 20% !important;
   }
 ```
-效果展示：![圣杯布局效果图](./images/holyGrail.png)
+   效果展示：
+  ![圣杯布局](https://s2.loli.net/2023/06/21/AhzS6YfE7v2cFGL.png)
 3. 双飞翼布局，就是两端固定宽高，中间自适应的三栏布局。
 ```javaScript
   <div class='grail'>
@@ -117,7 +118,8 @@
     flex: 1
   }
 ```
-效果图：![双飞翼效果图](./images/doubleFy.png)
+效果图：
+![双飞翼布局效果图](https://s2.loli.net/2023/06/21/2AslX1C4gwGiVvY.png)
 4. footer底部栏固定
 ```javaScript
   .grail {
@@ -146,7 +148,7 @@
   </div>
 ```
 效果图如下
-![Alt text](./images/footerFixed.png)
+![底部固定](https://s2.loli.net/2023/06/21/Qpes3LE6H1RxCay.png)
 ## 三、各类布局优缺点
 例如：如何实现 高度已知，两端宽度固定，中间自适应？
 1. flex布局
